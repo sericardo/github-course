@@ -1,0 +1,3 @@
+Teste para versionar arquivos
+
+Inclui mais uma linha no arquivo
