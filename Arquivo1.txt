@@ -3,4 +3,8 @@ Teste para versionar arquivos
 Inclui mais uma linha no arquivo
 
 
-mas uma aleradao
+mais uma aleradao
+
+
+
+agora trabalhando com diff
