@@ -8,3 +8,5 @@ mais uma aleradao
 
 
 agora trabalhando com diff
+
+adicionada nova linha para teste de envio de alteracao para o github
